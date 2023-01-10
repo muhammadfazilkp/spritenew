@@ -1,0 +1,249 @@
+body{
+    margin: 0;
+     
+    
+}
+
+.head{
+    width: 100%;
+    height: 80px;
+    background: #009b4e;
+    margin: 0;
+    padding: 0;
+    
+    
+
+}
+.head img{
+    width: 130px;
+    height: 50px;
+    padding-top: 10px;
+    padding-left: 40px;
+    
+
+}
+  .main{
+    width: 100%;
+    height: 60px;
+    color:aliceblue;
+    
+    position: relative;
+    margin-top: 10px;
+    left: 150px;
+    padding-bottom:-10px ;
+    bottom: 50px;
+    float: left;
+    margin-left: 100px ;
+  }
+  #h1{
+    float: left;
+    padding-right: 58px;
+    font-size:14px;
+    font-weight: 900;
+    font: bolder;
+    font-family:Georgia, 'Times New Roman'  ;
+    bottom: 50px;
+    /* position: relative; */
+    right: 40px;
+  }
+ 
+.main .icon{
+    
+    margin-left: 100px;
+    padding-left: 200px;
+    float: left;
+    margin-top: -20px;
+}
+.icon img{
+    float: left;
+    margin-left: 20px;
+    
+}
+.main{
+    padding-top: 10px;
+}
+.main h1{
+    margin-top: -20px;
+}
+.drink{
+
+    height: 400px;
+    background-color: #23b144;
+    position:relative;
+      
+}
+.drink img{
+    margin-top: -80px;
+    padding-left: 650px;
+}
+.content{
+    margin-top:-306px;
+    line-height: 1.4em;
+    float: left;
+    padding-left:238px ;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    font-weight: 900;
+    color:#ddd;
+}
+ 
+.title{
+    
+    float: left;
+    padding-left: 300px;
+}
+.title h2{
+    float: right;
+    margin-right: 100px;
+    font-size:small;
+    margin-top:-10px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}    
+.title b{
+    padding-left: -1000px;
+
+}
+.video{
+    position: relative;
+    /* left: 265x; */
+    margin-left: 265px;
+    padding-top: 100px;
+
+
+
+} 
+.video .embed-responsive-item{
+ margin-top: 30px;
+}
+#img1{
+    position: relative;
+    bottom: 423px;
+    width: 681px;
+    height: 424px;
+}
+
+   .Outer{
+    width: 100%;
+    height: 477px;
+    background-color:#D9D9D7 ;
+    bottom: 500px;
+    margin-top: -352px;
+   } 
+  #image2{
+    /* width: 60px; */
+    /* height: 50px; */
+    padding: left;
+    margin-left: 250px;
+    
+    position: relative;
+    left: 250;
+    
+  }
+  .foter{
+    width: 100%;
+    height: 600px;
+    background: #009b4e;
+  }
+#fotter{
+     height: 100px;
+    float: left;
+    margin-top: 30px;
+    margin-left:280px ;
+    padding-top: 100px
+    
+
+}
+#badge{
+    margin-top: -530px;
+    padding-left:30px ;
+    position: relative;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    color:#ddd ;
+    font-weight: bolder;
+}
+.fiter{
+    margin-top: 50px;
+    position: relative;
+    left: 160px;
+    margin-left: 20px;
+
+}
+/* .prodouct {
+    width: 50px;
+    height: 30px;
+    
+} */
+.prodout{
+    width: -10px;
+    height: 10px;
+    float: left;
+    padding-left: 400px;
+    margin-top: -130px;
+    font-size: xx-small;
+    font-style: italic;
+    font-family: 'Times New Roman', Times;
+    color: #D9D9D7;
+   
+
+}
+.last{
+    width: 146px;
+    height: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-small;
+    font-style: italic;
+    font-weight: 400;
+    color: #D9D9D7;
+    float: left;
+    padding-left: 420px;
+    /* top: 150px; */
+    margin-top: -70PX;
+}
+.cocco{
+    width: 550px;
+    height: 50px;
+    /* margin-top: 100px; */
+    float: left;
+    padding-left: -200px;
+    margin-top: 300px;
+    font-size: small;
+    font-style: italic;
+    font-family: "FuturaBT W05 ExtraBlack Italic";
+    color: 
+    rgba(255, 255, 255, 0.75);
+}
+.finisher{
+width: 100%;
+height: 100px;
+float: left;
+}
+
+.finisher a {
+   
+    float: left;
+    margin-left: 100px;
+    border-top: 20px;
+    font-family: "FuturaBT W05 ExtraBlack Italic" ;
+    /* font-style: italic; */
+    color:  rgba(255, 255, 255, 0.75) ;
+}
+#but{
+    width: 150px;
+    height: 30px;
+    color: #009b4e;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    font-weight: bolder;
+    float: left;
+    margin-left: 10px;
+    margin-top: -20px;
+
+}
+.div{
+    width: 100%;
+    height: 50px;
+    
+}
